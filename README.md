@@ -1,3 +1,7 @@
+running react using 'npm start'
+running backend server using 'npm start'
+
+
 <<<<<<< HEAD
 # Greenie-assesment-user-management
 =======
