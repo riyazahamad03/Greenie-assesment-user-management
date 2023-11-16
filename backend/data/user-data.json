@@ -1,0 +1,106 @@
+[
+  {
+    "id": 8742,
+    "UserName": "Riyaz",
+    "email": "riyazahamad397@gmail.com",
+    "phone": "8148741342",
+    "password": "Riyaz123",
+    "creationDate": "16/11/2023, 10:11:22 am"
+  },
+  {
+    "id": 824,
+    "UserName": "Jane",
+    "email": "jane1234@gmail.com",
+    "phone": "8324173313",
+    "password": "jane@123",
+    "creationDate": "16/11/2023, 10:11:40 am"
+  },
+  {
+    "id": 2911,
+    "UserName": "angela",
+    "email": "angela123@gmail.com",
+    "phone": "8363831631",
+    "password": "angeka@123",
+    "creationDate": "16/11/2023, 10:12:07 am"
+  },
+  {
+    "id": 4434,
+    "UserName": "mythili",
+    "email": "myth21712@gmail.com",
+    "phone": "9833316313",
+    "password": "Riyazgssg",
+    "creationDate": "16/11/2023, 10:12:51 am"
+  },
+  {
+    "id": 8402,
+    "UserName": "George",
+    "email": "George12331@gmail.com",
+    "phone": "8764341212",
+    "password": "asyasgy@121",
+    "creationDate": "16/11/2023, 10:13:18 am"
+  },
+  {
+    "id": 4315,
+    "UserName": "Mathew",
+    "email": "mathewsathosi123@gmail.com",
+    "phone": "8741373121",
+    "password": "Mathwe",
+    "creationDate": "16/11/2023, 10:23:44 am"
+  },
+  {
+    "id": 7848,
+    "UserName": "Georgina",
+    "email": "Gerogeee123@gmail.com",
+    "phone": "8126375531",
+    "password": "George",
+    "creationDate": "16/11/2023, 10:24:18 am"
+  },
+  {
+    "id": 1231,
+    "UserName": "Kalima",
+    "email": "kalimakalima123@gmail.com",
+    "phone": "94383676312",
+    "password": "kalima",
+    "creationDate": "16/11/2023, 10:24:48 am"
+  },
+  {
+    "id": 600,
+    "UserName": "Jeo Abraham",
+    "email": "abrajoe5541@gmail.com",
+    "phone": "8463658921",
+    "password": "abrahjoe",
+    "creationDate": "16/11/2023, 10:25:28 am"
+  },
+  {
+    "id": 4922,
+    "UserName": "Marcos gemini",
+    "email": "Marcosgem8313@gmail.com",
+    "phone": "9864562172",
+    "password": "marcose",
+    "creationDate": "16/11/2023, 10:27:02 am"
+  },
+  {
+    "id": 8486,
+    "UserName": "Prasanna",
+    "email": "prasanna454@gmail.com",
+    "phone": "94773188221",
+    "password": "prasidkrishna",
+    "creationDate": "16/11/2023, 10:54:28 am"
+  },
+  {
+    "id": 7103,
+    "UserName": "Matheshwar",
+    "email": "mathesh982@gmail.com",
+    "phone": "8738091833",
+    "password": "math22",
+    "creationDate": "16/11/2023, 10:58:22 am"
+  },
+  {
+    "id": 5403,
+    "UserName": "Sandeep",
+    "email": "sandeepeei92@gmail.com",
+    "phone": "97317133313",
+    "password": "aadadad",
+    "creationDate": "16/11/2023, 10:58:44 am"
+  }
+]
